@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI305.Petriv.Lab6","l":"PaperWaste"},{"p":"KI305.Petriv.Lab6","l":"PlasticBottle"},{"p":"KI305.Petriv.Lab6","l":"TrashBin"},{"p":"KI305.Petriv.Lab6","l":"TrashBinApp"},{"p":"KI305.Petriv.Lab6","l":"Waste"}];updateSearchResults();
